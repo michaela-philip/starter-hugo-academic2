@@ -22,7 +22,7 @@ organizations:
     url: https://www.emory.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include applied microeconomics and public policy. 
 
 # Interests to show in About widget
 interests:
@@ -69,7 +69,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CV August 2023.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -78,5 +78,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Michaela Philip is a second-year student at Emory University. She is from Madison, AL and earned her bachelor's degree in Public Health from the University of Alabama at Birmingham in 2022. Her primary research interest is applied microeconomics. 
 {style="text-align: justify;"}
