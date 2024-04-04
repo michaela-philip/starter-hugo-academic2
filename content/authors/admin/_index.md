@@ -27,8 +27,8 @@ bio: My research interests include applied microeconomics and public policy.
 # Interests to show in About widget
 interests:
   - Health Economics
-  - Environmental Economics
-  - Applied Microeconomics
+  - Urban Economics
+  - Economic History
   - Public Policy
 
 # Education to show in About widget
