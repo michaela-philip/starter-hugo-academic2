@@ -78,5 +78,5 @@ email: ''
 highlight_name: true
 ---
 
-Michaela Philip is a second-year student at Emory University. She is from Madison, AL and earned her bachelor's degree in Public Health from the University of Alabama at Birmingham in 2022. Her primary research interest is applied microeconomics. 
+Michaela Philip is a third-year student at Emory University. She is from Madison, AL and earned her bachelor's degree in Public Health from the University of Alabama at Birmingham in 2022. Her primary research interest is applied microeconomics. 
 {style="text-align: justify;"}
