@@ -22,7 +22,7 @@ sections:
           icon: cloud-arrow-up
           icon_pack: fas
         - name: GIS
-          icon: globe-stand
+          icon: map-location-dot
           icon_pack: fas
   - block: contact
     id: contact
