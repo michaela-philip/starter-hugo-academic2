@@ -21,8 +21,8 @@ sections:
         - name: Cloud Computing
           icon: cloud-arrow-up
           icon_pack: fas
-        - name: Statistics
-          icon: chart-line
+        - name: GIS
+          icon: globe-stand
           icon_pack: fas
   - block: contact
     id: contact
